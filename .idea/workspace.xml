@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a8b1b12-8a59-4e24-9d57-ade0c0d1869d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prc_7_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prc_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prc_7_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prc_7_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prc_7_5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,8 +110,33 @@
       <file leaf-file-name="Prc_7_5.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Prc_7_5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="190">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="docComment;class#Prc_7_5#0" />
+                <element signature="method#main#0;class#Prc_7_5#0" />
+                <element signature="docComment;method#prcScanner#0;class#Prc_7_5#0" />
+                <element signature="method#prcScanner#0;class#Prc_7_5#0" />
+                <element signature="docComment;method#prcSet#0;class#Prc_7_5#0" />
+                <element signature="method#prcList#0;class#Prc_7_5#0" />
+                <element signature="docComment;method#prcMap#0;class#Prc_7_5#0" />
+                <element signature="method#prcMap#0;class#Prc_7_5#0" />
+                <element signature="docComment;method#prcSet#0;class#Prc_7_5#0" />
+                <element signature="method#prcSet#0;class#Prc_7_5#0" />
+                <element signature="docComment;field#prc#0;class#Prc_7_5#0" />
+                <element signature="method#prcDate#0;class#Prc_7_5#0" />
+                <element signature="docComment;field#pr#0;class#Prc_7_5#0" />
+                <element signature="method#prcCalendar#0;class#Prc_7_5#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="446" column="13" selection-start-line="446" selection-start-column="13" selection-end-line="446" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -228,7 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.prc_7_4">
+  <component name="RunManager" selected="Application.Prc_7_5">
     <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dog" />
       <module name="java" />
@@ -244,8 +264,8 @@
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Person" />
+    <configuration name="Prc_7_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prc_7_5" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -296,19 +316,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Person" />
       <item itemvalue="Application.Dog" />
       <item itemvalue="Application.Employee" />
       <item itemvalue="Application.Human" />
       <item itemvalue="Application.prc_7_4" />
+      <item itemvalue="Application.Prc_7_5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prc_7_5" />
         <item itemvalue="Application.prc_7_4" />
         <item itemvalue="Application.Human" />
         <item itemvalue="Application.Employee" />
         <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
@@ -326,19 +346,19 @@
       <workItem from="1530533084645" duration="4463000" />
       <workItem from="1530578316082" duration="4277000" />
       <workItem from="1530666017179" duration="6412000" />
-      <workItem from="1530750435858" duration="1172000" />
+      <workItem from="1530750435858" duration="10864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34847000" />
+    <option name="totallyTimeSpent" value="44539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="-6" width="1309" height="925" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3296433" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -350,7 +370,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3296433" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.17837837" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.17837837" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" sideWeight="0.501845" side_tool="true" visible="true" weight="0.17837837" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -361,7 +381,6 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32972974" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3296433" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -693,10 +712,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="446" column="13" selection-start-line="446" selection-start-column="13" selection-end-line="446" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Prc_7_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="190">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="docComment;class#Prc_7_5#0" />
+            <element signature="method#main#0;class#Prc_7_5#0" />
+            <element signature="docComment;method#prcScanner#0;class#Prc_7_5#0" />
+            <element signature="method#prcScanner#0;class#Prc_7_5#0" />
+            <element signature="docComment;method#prcSet#0;class#Prc_7_5#0" />
+            <element signature="method#prcList#0;class#Prc_7_5#0" />
+            <element signature="docComment;method#prcMap#0;class#Prc_7_5#0" />
+            <element signature="method#prcMap#0;class#Prc_7_5#0" />
+            <element signature="docComment;method#prcSet#0;class#Prc_7_5#0" />
+            <element signature="method#prcSet#0;class#Prc_7_5#0" />
+            <element signature="docComment;field#prc#0;class#Prc_7_5#0" />
+            <element signature="method#prcDate#0;class#Prc_7_5#0" />
+            <element signature="docComment;field#pr#0;class#Prc_7_5#0" />
+            <element signature="method#prcCalendar#0;class#Prc_7_5#0" />
+          </folding>
         </state>
       </provider>
     </entry>
